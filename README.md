@@ -1,8 +1,8 @@
-# Working Directory
-- Area where all of our files and directories and changes are living all the time
+# Adding multiple files of a certain type
 
-# Staging Area
-- Files and directories that we explcitly add to the staging area
+# Adding all files in directory (including hidden)
 
-# Git Repository
-- Where all our snapshots are stored
+# Removing files
+
+# Ignoring files
+
